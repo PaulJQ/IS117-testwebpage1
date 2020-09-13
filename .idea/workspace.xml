@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="decf7824-66ab-4bd0-a77b-3ba88d94edc0" name="Default Changelist" comment="" />
+    <list default="true" id="decf7824-66ab-4bd0-a77b-3ba88d94edc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
@@ -30,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599944159131</updated>
-      <workItem from="1599944160795" duration="7168000" />
+      <workItem from="1599944160795" duration="8824000" />
     </task>
     <servers />
   </component>
@@ -50,5 +61,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="293" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599977126003" />
+    <state x="604" y="253" key="search.everywhere.popup" timestamp="1600014844501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="604" y="253" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600014844501" />
   </component>
 </project>
