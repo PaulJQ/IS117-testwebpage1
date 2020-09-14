@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="decf7824-66ab-4bd0-a77b-3ba88d94edc0" name="Default Changelist" comment="commit 10">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+    <list default="true" id="decf7824-66ab-4bd0-a77b-3ba88d94edc0" name="Default Changelist" comment="commit 11">
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paulj\WebstormProjects\Test" />
       <recent name="C:\Users\paulj\WebstormProjects\Test\css" />
       <recent name="C:\Users\paulj\WebstormProjects\Test\html" />
     </key>
@@ -50,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599944159131</updated>
-      <workItem from="1599944160795" duration="23387000" />
+      <workItem from="1599944160795" duration="23524000" />
     </task>
     <task id="LOCAL-00001" summary="commit 2">
       <created>1600016972066</created>
@@ -115,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600055465953</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit 11">
+      <created>1600056171710</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600056171710</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +137,8 @@
     <MESSAGE value="commit 8" />
     <MESSAGE value="commit 9" />
     <MESSAGE value="commit 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 10" />
+    <MESSAGE value="commit 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="825" y="284" key="FileChooserDialogImpl" timestamp="1599945887112">
@@ -146,10 +153,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="293" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599977126003" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600055469086">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600056174484">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600055469086" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600056174484" />
     <state x="113" y="503" width="761" height="498" key="dock-window-1" timestamp="1600054585715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
